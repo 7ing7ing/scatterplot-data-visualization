@@ -109,7 +109,7 @@ d3.json(
           "Year " +
           d.Year +
           ", " +
-          "Time" +
+          "Time: " +
           d.Time +
           "<br>" +
           d.Doping
