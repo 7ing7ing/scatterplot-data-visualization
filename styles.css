@@ -1,0 +1,31 @@
+body {
+  font-family: "Quicksand", sans-serif;
+}
+
+#title {
+  text-align: center;
+  font-size: 26px;
+  line-height: 1;
+}
+
+h2 {
+  text-align: center;
+  font-size: 20px;
+  line-height: 0;
+}
+
+svg {
+  display: block;
+  margin: auto;
+}
+.dot {
+  stroke: black;
+  opacity: 0.7;
+}
+
+#tooltip {
+  padding: 4px;
+  background: #c8c6c6;
+  border: 0px;
+  border-radius: 8px;
+}
